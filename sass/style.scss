@@ -1,0 +1,16 @@
+header {
+	background: #fff;
+	height: 120px;
+	width: 100%;
+	padding: 10px;
+	display: flex;
+}
+
+nav {
+  display: flex;
+  margin-left: auto;
+  li {
+    display: inline-block;
+    padding: 10px;
+  }
+}
