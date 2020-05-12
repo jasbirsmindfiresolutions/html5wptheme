@@ -1,5 +1,5 @@
-$bgcolor: #cccccc;
+@import "colors";
 
 body {
-	background-color: $bgcolor;
+	background-color: $bg_color;
 }
